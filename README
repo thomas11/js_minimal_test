@@ -14,11 +14,20 @@ functions.
 See examples/ for just that.
 
 
-TODO
-====
+Background
+==========
 
 I plan to make several versions that get successively bigger and
 introduce more features, to get a feel for the behind-the-scenes of
 testing, and to find the sweet spot(s) for something that is
 expressive enough, but small enough to be a no-brainer to use in a new
-project.
+project.  At least the smallest one should be.
+
+It also serves as a learning JavaScript project for me.  I strongly
+follow Crockford's JavaScript: The Good Parts.
+
+
+TODO
+====
+
+  - example
