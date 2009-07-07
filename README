@@ -1,0 +1,24 @@
+js-minimal-test
+===============
+
+The most minimal JavaScript unit test framework I could come up
+with. This is not for browser testing, it's for stand-alone
+JavaScript!
+
+31 lines of code are enough for tests with names, grouped into
+functions according to your liking, and supporting testing exceptions.
+Not enough for recording the reason of test failures or nesting tests.
+But JavaScript makes it trivial to share context between your test
+functions.
+
+See examples/ for just that.
+
+
+TODO
+====
+
+I plan to make several versions that get successively bigger and
+introduce more features, to get a feel for the behind-the-scenes of
+testing, and to find the sweet spot(s) for something that is
+expressive enough, but small enough to be a no-brainer to use in a new
+project.
