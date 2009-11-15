@@ -8,7 +8,8 @@ testing.
 
 Consisting of all of ~25 lines of code, it's almost embarrassing to
 publish this a project of its own. But then, it works for me, and
-smaller is better as long as it works.
+smaller is better as long as it works. It's also a testament to how
+expressive JavaScript's literal object notation is.
 
 It has tests with names, grouped into functions according to your
 liking, and a simple console output. It does not know the reason of
